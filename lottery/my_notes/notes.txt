@@ -1,0 +1,11 @@
+realtime peer to peer distributed immuntable database
+database: store data mongodb sql i.e nosql both have different biffercation 
+immuatble - no editable due to hash as 3 type- previosu hash ,current data, current hash dependennt on previous
+distributed - server not like non distributed(youtube bank where all data in one server) its like all nodes have data saved
+
+
+crypto - cryptography method for blockchain hash(sha252 - hashfuncction algo_) all have different as ether depending on technolgy
+	same advntage as blockchain
+
+smart contract- ether cryptocurrency , etherium is a network type . an application with our own code is contract , 
+	language solidity , we dont make blockchains we edit like classes as function update, different test networks
